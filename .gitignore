@@ -1,0 +1,7 @@
+.vs/
+x64/
+Libraries-Static/
+HelloUser/x64/
+*.filters
+*.user
+.gitattributes
